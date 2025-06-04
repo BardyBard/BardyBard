@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alexander Magnus</h1>
-<p align="center">Currently exploring Computer Science and Urban Planning/p>
+<p align="center">Currently exploring Computer Science and Urban Planning </p>
 
 <h3 align="left">Connect with me on <a href="[https://linkedin.com/in/matthew-frieri](https://www.linkedin.com/in/alexander-magnus/)" target="_blank">LinkedIn</a></h3>
 
